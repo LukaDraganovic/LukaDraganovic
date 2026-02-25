@@ -20,7 +20,7 @@ Below is a curated selection of projects included in this index. Each project is
 - **[Metadata Remover](https://github.com/LukaDraganovic/metadata-remover)** – This project removes all non-essential metadata (EXIF, XMP, IPTC) from JPEG images while ensuring output files remain valid, readable, and secure.
 
 ### 🧪 Experimental & Learning Projects
-- None for now  
+- **[PowerShell skripts](https://github.com/LukaDraganovic/PowerShell-skripts)** - PowerShell skripts that automize tasks.
 
 
 ---
